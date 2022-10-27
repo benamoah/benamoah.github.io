@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr Benjamin Amoah"
-  avatar           : "profile.png"
+  avatar           : "AAA.JPG" #"profile.png"
   bio              : "Disease modeller using geospatial and transmission dynamics methods"
   location         : "Location"
   employer         :
